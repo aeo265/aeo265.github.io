@@ -1,0 +1,17 @@
+h1 { 
+	color: red;
+}
+
+
+.main-content {
+	padding-top: 45px;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+}
+
+footer {
+	background: #e3e3e3;
+	height: 190px;
+}
